@@ -1,4 +1,4 @@
-# Module pipeline/stage_003.py
+# Module runtime/stage_003.py
 
 import os
 
